@@ -1,0 +1,6 @@
+1. git status
+2. git pull
+3. внести зміни
+4. git add .
+5. git commit -m "текст"
+6. git push
